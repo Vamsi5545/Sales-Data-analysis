@@ -184,9 +184,9 @@ The following inferences can be drawn from the dashboard:
 ## 🙋 Author
 
 **Tamminedi Satya Vamsi**
-- GitHub: [@yourusername](https://github.com/Vamsi5545)
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/satyavamsi5545)
 
+- GitHub: [@Vamsi5545](https://github.com/Vamsi5545)
+- LinkedIn: [Tamminedi Satya Vamsi](https://www.linkedin.com/in/satyavamsi5545)
 ---
 
 
