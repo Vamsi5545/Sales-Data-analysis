@@ -126,7 +126,7 @@ ElectroHub-PowerBI/
 ## 🚀 Getting Started
 
 1. **Clone or download** this repository.
-2. Open `Sales Data.pbix` using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Open <a href="https://github.com/Vamsi5545/Sales-Data-analysis/blob/main/Sales%20Data.pbix">'Sales Data.pbix`</a> using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. If prompted, update the **data source path** to point to the local dataset.
 4. Refresh the data and start exploring the dashboard.
 
