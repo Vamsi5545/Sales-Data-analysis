@@ -114,10 +114,10 @@ A **geographic visualization** of sales distribution across different cities for
 ```
 ElectroHub-PowerBI/
 │
-├── ElectroHub_Dashboard.pbix     # Main Power BI report file
+├── Sales Data.pbix     # Main Power BI report file
 ├── README.md                     # Project documentation
 └── Data/
-    └── ElectroHub_Data.xlsx      # Source dataset
+    └── Store+Data.xlsx      # Source dataset
 ```
 
 ---
@@ -125,7 +125,7 @@ ElectroHub-PowerBI/
 ## 🚀 Getting Started
 
 1. **Clone or download** this repository.
-2. Open `ElectroHub_Dashboard.pbix` using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Open `Sales Data.pbix` using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. If prompted, update the **data source path** to point to the local dataset.
 4. Refresh the data and start exploring the dashboard.
 
