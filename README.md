@@ -3,7 +3,8 @@
 ### Dashboard Link : (https://app.powerbi.com/links/HMZQwfE5a-?ctid=ac63a538-7ef9-43d0-b529-7819df5117ab&pbi_source=linkShare)
 
 ---
-
+### Data Set Used : <a href = "https://github.com/Vamsi5545/Sales-Data-analysis/blob/main/Store%2BData.xlsx">Store + Data</a>
+---
 ## 📋 Problem Statement
 
 This dashboard helps **ElectroHub** understand their sales performance across multiple product categories. It enables the business to identify top and bottom performing products, track sales trends over time, and analyze profitability across regions and customer segments.
